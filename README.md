@@ -1,4 +1,4 @@
-<strong>In this project I developed a Machine Learning Model for Space Y, a fictional willing to compete against SpaceX</strong>
+<strong>In this project I developed a Machine Learning Model for Space Y, a fictional company willing to compete against SpaceX</strong>
 <hr>
 <br>The goal of model is to predict when Stage 1 will successfully land to save ~$100 million USD;
 <br>Used data from a public SpaceX API and web scraping SpaceX Wikipedia page;
